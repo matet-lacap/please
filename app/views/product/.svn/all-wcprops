@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/greenova/greenova.mobiledelivery.admin/!svn/ver/28/greenova.ph.mobiledelivery.admin/trunk/app/views/product
+END
+get_variants.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/greenova/greenova.mobiledelivery.admin/!svn/ver/30/greenova.ph.mobiledelivery.admin/trunk/app/views/product/get_variants.html.erb
+END
+get_product.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/greenova/greenova.mobiledelivery.admin/!svn/ver/28/greenova.ph.mobiledelivery.admin/trunk/app/views/product/get_product.html.erb
+END
+show.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/greenova/greenova.mobiledelivery.admin/!svn/ver/28/greenova.ph.mobiledelivery.admin/trunk/app/views/product/show.html.erb
+END
+special_products.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/greenova/greenova.mobiledelivery.admin/!svn/ver/30/greenova.ph.mobiledelivery.admin/trunk/app/views/product/special_products.html.erb
+END

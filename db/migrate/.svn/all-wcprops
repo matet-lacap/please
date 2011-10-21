@@ -1,0 +1,221 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/greenova/greenova.mobiledelivery.admin/!svn/ver/23/greenova.ph.mobiledelivery.admin/trunk/db/migrate
+END
+20110901083903_create_variants.rb
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/greenova/greenova.mobiledelivery.admin/!svn/ver/18/greenova.ph.mobiledelivery.admin/trunk/db/migrate/20110901083903_create_variants.rb
+END
+20110901080635_create_locations.rb
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/greenova/greenova.mobiledelivery.admin/!svn/ver/18/greenova.ph.mobiledelivery.admin/trunk/db/migrate/20110901080635_create_locations.rb
+END
+20110901075047_create_catalogs.rb
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/greenova/greenova.mobiledelivery.admin/!svn/ver/22/greenova.ph.mobiledelivery.admin/trunk/db/migrate/20110901075047_create_catalogs.rb
+END
+20110912083005_add_image_to_catalog.rb
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/greenova/greenova.mobiledelivery.admin/!svn/ver/22/greenova.ph.mobiledelivery.admin/trunk/db/migrate/20110912083005_add_image_to_catalog.rb
+END
+20110901051259_devise_create_users.rb
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/greenova/greenova.mobiledelivery.admin/!svn/ver/18/greenova.ph.mobiledelivery.admin/trunk/db/migrate/20110901051259_devise_create_users.rb
+END
+20110901081906_create_order_states.rb
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/greenova/greenova.mobiledelivery.admin/!svn/ver/18/greenova.ph.mobiledelivery.admin/trunk/db/migrate/20110901081906_create_order_states.rb
+END
+20110901083618_create_user_customer_groups.rb
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/greenova/greenova.mobiledelivery.admin/!svn/ver/18/greenova.ph.mobiledelivery.admin/trunk/db/migrate/20110901083618_create_user_customer_groups.rb
+END
+20110901071423_create_add_ons.rb
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/greenova/greenova.mobiledelivery.admin/!svn/ver/18/greenova.ph.mobiledelivery.admin/trunk/db/migrate/20110901071423_create_add_ons.rb
+END
+20110912030605_add_image_to_product.rb
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/greenova/greenova.mobiledelivery.admin/!svn/ver/22/greenova.ph.mobiledelivery.admin/trunk/db/migrate/20110912030605_add_image_to_product.rb
+END
+20110905044241_create_delivery_lead_times.rb
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/greenova/greenova.mobiledelivery.admin/!svn/ver/18/greenova.ph.mobiledelivery.admin/trunk/db/migrate/20110905044241_create_delivery_lead_times.rb
+END
+20110901082609_create_products.rb
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/greenova/greenova.mobiledelivery.admin/!svn/ver/21/greenova.ph.mobiledelivery.admin/trunk/db/migrate/20110901082609_create_products.rb
+END
+20110901082646_create_role_navigations.rb
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/greenova/greenova.mobiledelivery.admin/!svn/ver/18/greenova.ph.mobiledelivery.admin/trunk/db/migrate/20110901082646_create_role_navigations.rb
+END
+20110901084014_create_vendors.rb
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/greenova/greenova.mobiledelivery.admin/!svn/ver/19/greenova.ph.mobiledelivery.admin/trunk/db/migrate/20110901084014_create_vendors.rb
+END
+20110901081435_create_news.rb
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/greenova/greenova.mobiledelivery.admin/!svn/ver/18/greenova.ph.mobiledelivery.admin/trunk/db/migrate/20110901081435_create_news.rb
+END
+20110901081738_create_order_headers.rb
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/greenova/greenova.mobiledelivery.admin/!svn/ver/18/greenova.ph.mobiledelivery.admin/trunk/db/migrate/20110901081738_create_order_headers.rb
+END
+20110914041858_add_website_to_vendor.rb
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/greenova/greenova.mobiledelivery.admin/!svn/ver/23/greenova.ph.mobiledelivery.admin/trunk/db/migrate/20110914041858_add_website_to_vendor.rb
+END
+20110901081526_create_opening_hours.rb
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/greenova/greenova.mobiledelivery.admin/!svn/ver/20/greenova.ph.mobiledelivery.admin/trunk/db/migrate/20110901081526_create_opening_hours.rb
+END
+20110901081247_create_navigations.rb
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/greenova/greenova.mobiledelivery.admin/!svn/ver/18/greenova.ph.mobiledelivery.admin/trunk/db/migrate/20110901081247_create_navigations.rb
+END
+20110901082434_create_product_prices.rb
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/greenova/greenova.mobiledelivery.admin/!svn/ver/18/greenova.ph.mobiledelivery.admin/trunk/db/migrate/20110901082434_create_product_prices.rb
+END
+20110913080343_remove_images_in_product.rb
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/greenova/greenova.mobiledelivery.admin/!svn/ver/22/greenova.ph.mobiledelivery.admin/trunk/db/migrate/20110913080343_remove_images_in_product.rb
+END
+20110905042720_create_admin_roles.rb
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/greenova/greenova.mobiledelivery.admin/!svn/ver/18/greenova.ph.mobiledelivery.admin/trunk/db/migrate/20110905042720_create_admin_roles.rb
+END
+20110901083703_create_shop_users.rb
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/greenova/greenova.mobiledelivery.admin/!svn/ver/18/greenova.ph.mobiledelivery.admin/trunk/db/migrate/20110901083703_create_shop_users.rb
+END
+20110901075521_create_delivery_costs.rb
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/greenova/greenova.mobiledelivery.admin/!svn/ver/18/greenova.ph.mobiledelivery.admin/trunk/db/migrate/20110901075521_create_delivery_costs.rb
+END
+20110913082551_add_images_to_product.rb
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/greenova/greenova.mobiledelivery.admin/!svn/ver/22/greenova.ph.mobiledelivery.admin/trunk/db/migrate/20110913082551_add_images_to_product.rb
+END
+20110901083430_create_states.rb
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/greenova/greenova.mobiledelivery.admin/!svn/ver/18/greenova.ph.mobiledelivery.admin/trunk/db/migrate/20110901083430_create_states.rb
+END
+20110901082328_create_order_types.rb
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/greenova/greenova.mobiledelivery.admin/!svn/ver/18/greenova.ph.mobiledelivery.admin/trunk/db/migrate/20110901082328_create_order_types.rb
+END
+20110901075147_create_customer_groups.rb
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/greenova/greenova.mobiledelivery.admin/!svn/ver/18/greenova.ph.mobiledelivery.admin/trunk/db/migrate/20110901075147_create_customer_groups.rb
+END
+20110901082931_create_salutations.rb
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/greenova/greenova.mobiledelivery.admin/!svn/ver/18/greenova.ph.mobiledelivery.admin/trunk/db/migrate/20110901082931_create_salutations.rb
+END
+20110901081828_create_order_lines.rb
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/greenova/greenova.mobiledelivery.admin/!svn/ver/18/greenova.ph.mobiledelivery.admin/trunk/db/migrate/20110901081828_create_order_lines.rb
+END
+20110901075332_create_delivery_addresses.rb
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/greenova/greenova.mobiledelivery.admin/!svn/ver/21/greenova.ph.mobiledelivery.admin/trunk/db/migrate/20110901075332_create_delivery_addresses.rb
+END
+20110901083540_create_translations.rb
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/greenova/greenova.mobiledelivery.admin/!svn/ver/18/greenova.ph.mobiledelivery.admin/trunk/db/migrate/20110901083540_create_translations.rb
+END
+20110901083941_create_vats.rb
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/greenova/greenova.mobiledelivery.admin/!svn/ver/18/greenova.ph.mobiledelivery.admin/trunk/db/migrate/20110901083941_create_vats.rb
+END
+20110901051338_create_rails_admin_histories_table.rb
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/greenova/greenova.mobiledelivery.admin/!svn/ver/18/greenova.ph.mobiledelivery.admin/trunk/db/migrate/20110901051338_create_rails_admin_histories_table.rb
+END
+20110901083251_create_special_offer_types.rb
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/greenova/greenova.mobiledelivery.admin/!svn/ver/18/greenova.ph.mobiledelivery.admin/trunk/db/migrate/20110901083251_create_special_offer_types.rb
+END
+20110901082901_create_roles.rb
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/greenova/greenova.mobiledelivery.admin/!svn/ver/18/greenova.ph.mobiledelivery.admin/trunk/db/migrate/20110901082901_create_roles.rb
+END
+20110901083053_create_service_regions.rb
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/greenova/greenova.mobiledelivery.admin/!svn/ver/18/greenova.ph.mobiledelivery.admin/trunk/db/migrate/20110901083053_create_service_regions.rb
+END

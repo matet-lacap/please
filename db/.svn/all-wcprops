@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/greenova/greenova.mobiledelivery.admin/!svn/ver/23/greenova.ph.mobiledelivery.admin/trunk/db
+END
+schema.rb
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/greenova/greenova.mobiledelivery.admin/!svn/ver/23/greenova.ph.mobiledelivery.admin/trunk/db/schema.rb
+END
+seeds.rb
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/greenova/greenova.mobiledelivery.admin/!svn/ver/18/greenova.ph.mobiledelivery.admin/trunk/db/seeds.rb
+END
+mobiledelivery.dev.sqlite3
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/greenova/greenova.mobiledelivery.admin/!svn/ver/30/greenova.ph.mobiledelivery.admin/trunk/db/mobiledelivery.dev.sqlite3
+END
+mobiledelivery.test.sqlite3
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/greenova/greenova.mobiledelivery.admin/!svn/ver/18/greenova.ph.mobiledelivery.admin/trunk/db/mobiledelivery.test.sqlite3
+END

@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/greenova/greenova.mobiledelivery.admin/!svn/ver/18/greenova.ph.mobiledelivery.admin/trunk/test/fixtures
+END
+opening_hours.yml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/greenova/greenova.mobiledelivery.admin/!svn/ver/18/greenova.ph.mobiledelivery.admin/trunk/test/fixtures/opening_hours.yml
+END
+delivery_addresses.yml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/greenova/greenova.mobiledelivery.admin/!svn/ver/18/greenova.ph.mobiledelivery.admin/trunk/test/fixtures/delivery_addresses.yml
+END
+vendors.yml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/greenova/greenova.mobiledelivery.admin/!svn/ver/18/greenova.ph.mobiledelivery.admin/trunk/test/fixtures/vendors.yml
+END
+translations.yml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/greenova/greenova.mobiledelivery.admin/!svn/ver/18/greenova.ph.mobiledelivery.admin/trunk/test/fixtures/translations.yml
+END
+navigations.yml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/greenova/greenova.mobiledelivery.admin/!svn/ver/18/greenova.ph.mobiledelivery.admin/trunk/test/fixtures/navigations.yml
+END
+roles.yml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/greenova/greenova.mobiledelivery.admin/!svn/ver/18/greenova.ph.mobiledelivery.admin/trunk/test/fixtures/roles.yml
+END
+product_prices.yml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/greenova/greenova.mobiledelivery.admin/!svn/ver/18/greenova.ph.mobiledelivery.admin/trunk/test/fixtures/product_prices.yml
+END
+special_offer_types.yml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/greenova/greenova.mobiledelivery.admin/!svn/ver/18/greenova.ph.mobiledelivery.admin/trunk/test/fixtures/special_offer_types.yml
+END
+service_regions.yml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/greenova/greenova.mobiledelivery.admin/!svn/ver/18/greenova.ph.mobiledelivery.admin/trunk/test/fixtures/service_regions.yml
+END
+variants.yml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/greenova/greenova.mobiledelivery.admin/!svn/ver/18/greenova.ph.mobiledelivery.admin/trunk/test/fixtures/variants.yml
+END
+shop_users.yml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/greenova/greenova.mobiledelivery.admin/!svn/ver/18/greenova.ph.mobiledelivery.admin/trunk/test/fixtures/shop_users.yml
+END
+locations.yml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/greenova/greenova.mobiledelivery.admin/!svn/ver/18/greenova.ph.mobiledelivery.admin/trunk/test/fixtures/locations.yml
+END
+admin_roles.yml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/greenova/greenova.mobiledelivery.admin/!svn/ver/18/greenova.ph.mobiledelivery.admin/trunk/test/fixtures/admin_roles.yml
+END
+catalogs.yml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/greenova/greenova.mobiledelivery.admin/!svn/ver/18/greenova.ph.mobiledelivery.admin/trunk/test/fixtures/catalogs.yml
+END
+order_states.yml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/greenova/greenova.mobiledelivery.admin/!svn/ver/18/greenova.ph.mobiledelivery.admin/trunk/test/fixtures/order_states.yml
+END
+delivery_costs.yml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/greenova/greenova.mobiledelivery.admin/!svn/ver/18/greenova.ph.mobiledelivery.admin/trunk/test/fixtures/delivery_costs.yml
+END
+user_customer_groups.yml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/greenova/greenova.mobiledelivery.admin/!svn/ver/18/greenova.ph.mobiledelivery.admin/trunk/test/fixtures/user_customer_groups.yml
+END
+order_types.yml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/greenova/greenova.mobiledelivery.admin/!svn/ver/18/greenova.ph.mobiledelivery.admin/trunk/test/fixtures/order_types.yml
+END
+customer_groups.yml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/greenova/greenova.mobiledelivery.admin/!svn/ver/18/greenova.ph.mobiledelivery.admin/trunk/test/fixtures/customer_groups.yml
+END
+users.yml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/greenova/greenova.mobiledelivery.admin/!svn/ver/18/greenova.ph.mobiledelivery.admin/trunk/test/fixtures/users.yml
+END
+products.yml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/greenova/greenova.mobiledelivery.admin/!svn/ver/18/greenova.ph.mobiledelivery.admin/trunk/test/fixtures/products.yml
+END
+role_navigations.yml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/greenova/greenova.mobiledelivery.admin/!svn/ver/18/greenova.ph.mobiledelivery.admin/trunk/test/fixtures/role_navigations.yml
+END
+states.yml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/greenova/greenova.mobiledelivery.admin/!svn/ver/18/greenova.ph.mobiledelivery.admin/trunk/test/fixtures/states.yml
+END
+order_lines.yml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/greenova/greenova.mobiledelivery.admin/!svn/ver/18/greenova.ph.mobiledelivery.admin/trunk/test/fixtures/order_lines.yml
+END
+order_headers.yml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/greenova/greenova.mobiledelivery.admin/!svn/ver/18/greenova.ph.mobiledelivery.admin/trunk/test/fixtures/order_headers.yml
+END
+salutations.yml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/greenova/greenova.mobiledelivery.admin/!svn/ver/18/greenova.ph.mobiledelivery.admin/trunk/test/fixtures/salutations.yml
+END
+add_ons.yml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/greenova/greenova.mobiledelivery.admin/!svn/ver/18/greenova.ph.mobiledelivery.admin/trunk/test/fixtures/add_ons.yml
+END
+delivery_lead_times.yml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/greenova/greenova.mobiledelivery.admin/!svn/ver/18/greenova.ph.mobiledelivery.admin/trunk/test/fixtures/delivery_lead_times.yml
+END
+news.yml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/greenova/greenova.mobiledelivery.admin/!svn/ver/18/greenova.ph.mobiledelivery.admin/trunk/test/fixtures/news.yml
+END
+vats.yml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/greenova/greenova.mobiledelivery.admin/!svn/ver/18/greenova.ph.mobiledelivery.admin/trunk/test/fixtures/vats.yml
+END

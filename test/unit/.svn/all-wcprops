@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/greenova/greenova.mobiledelivery.admin/!svn/ver/28/greenova.ph.mobiledelivery.admin/trunk/test/unit
+END
+user_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/greenova/greenova.mobiledelivery.admin/!svn/ver/18/greenova.ph.mobiledelivery.admin/trunk/test/unit/user_test.rb
+END
+state_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/greenova/greenova.mobiledelivery.admin/!svn/ver/18/greenova.ph.mobiledelivery.admin/trunk/test/unit/state_test.rb
+END
+role_navigation_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/greenova/greenova.mobiledelivery.admin/!svn/ver/18/greenova.ph.mobiledelivery.admin/trunk/test/unit/role_navigation_test.rb
+END
+product_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/greenova/greenova.mobiledelivery.admin/!svn/ver/18/greenova.ph.mobiledelivery.admin/trunk/test/unit/product_test.rb
+END
+order_line_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/greenova/greenova.mobiledelivery.admin/!svn/ver/18/greenova.ph.mobiledelivery.admin/trunk/test/unit/order_line_test.rb
+END
+salutation_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/greenova/greenova.mobiledelivery.admin/!svn/ver/18/greenova.ph.mobiledelivery.admin/trunk/test/unit/salutation_test.rb
+END
+order_header_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/greenova/greenova.mobiledelivery.admin/!svn/ver/18/greenova.ph.mobiledelivery.admin/trunk/test/unit/order_header_test.rb
+END
+add_on_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/greenova/greenova.mobiledelivery.admin/!svn/ver/18/greenova.ph.mobiledelivery.admin/trunk/test/unit/add_on_test.rb
+END
+delivery_lead_time_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/greenova/greenova.mobiledelivery.admin/!svn/ver/18/greenova.ph.mobiledelivery.admin/trunk/test/unit/delivery_lead_time_test.rb
+END
+delivery_address_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/greenova/greenova.mobiledelivery.admin/!svn/ver/18/greenova.ph.mobiledelivery.admin/trunk/test/unit/delivery_address_test.rb
+END
+vat_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/greenova/greenova.mobiledelivery.admin/!svn/ver/18/greenova.ph.mobiledelivery.admin/trunk/test/unit/vat_test.rb
+END
+opening_hour_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/greenova/greenova.mobiledelivery.admin/!svn/ver/18/greenova.ph.mobiledelivery.admin/trunk/test/unit/opening_hour_test.rb
+END
+vendor_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/greenova/greenova.mobiledelivery.admin/!svn/ver/18/greenova.ph.mobiledelivery.admin/trunk/test/unit/vendor_test.rb
+END
+translation_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/greenova/greenova.mobiledelivery.admin/!svn/ver/18/greenova.ph.mobiledelivery.admin/trunk/test/unit/translation_test.rb
+END
+navigation_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/greenova/greenova.mobiledelivery.admin/!svn/ver/18/greenova.ph.mobiledelivery.admin/trunk/test/unit/navigation_test.rb
+END
+role_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/greenova/greenova.mobiledelivery.admin/!svn/ver/18/greenova.ph.mobiledelivery.admin/trunk/test/unit/role_test.rb
+END
+product_price_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/greenova/greenova.mobiledelivery.admin/!svn/ver/18/greenova.ph.mobiledelivery.admin/trunk/test/unit/product_price_test.rb
+END
+special_offer_type_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/greenova/greenova.mobiledelivery.admin/!svn/ver/18/greenova.ph.mobiledelivery.admin/trunk/test/unit/special_offer_type_test.rb
+END
+service_region_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/greenova/greenova.mobiledelivery.admin/!svn/ver/18/greenova.ph.mobiledelivery.admin/trunk/test/unit/service_region_test.rb
+END
+variant_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/greenova/greenova.mobiledelivery.admin/!svn/ver/18/greenova.ph.mobiledelivery.admin/trunk/test/unit/variant_test.rb
+END
+shop_user_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/greenova/greenova.mobiledelivery.admin/!svn/ver/18/greenova.ph.mobiledelivery.admin/trunk/test/unit/shop_user_test.rb
+END
+location_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/greenova/greenova.mobiledelivery.admin/!svn/ver/18/greenova.ph.mobiledelivery.admin/trunk/test/unit/location_test.rb
+END
+admin_role_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/greenova/greenova.mobiledelivery.admin/!svn/ver/18/greenova.ph.mobiledelivery.admin/trunk/test/unit/admin_role_test.rb
+END
+catalog_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/greenova/greenova.mobiledelivery.admin/!svn/ver/18/greenova.ph.mobiledelivery.admin/trunk/test/unit/catalog_test.rb
+END
+order_state_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/greenova/greenova.mobiledelivery.admin/!svn/ver/18/greenova.ph.mobiledelivery.admin/trunk/test/unit/order_state_test.rb
+END
+delivery_cost_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/greenova/greenova.mobiledelivery.admin/!svn/ver/18/greenova.ph.mobiledelivery.admin/trunk/test/unit/delivery_cost_test.rb
+END
+user_customer_group_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/greenova/greenova.mobiledelivery.admin/!svn/ver/18/greenova.ph.mobiledelivery.admin/trunk/test/unit/user_customer_group_test.rb
+END
+order_type_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/greenova/greenova.mobiledelivery.admin/!svn/ver/18/greenova.ph.mobiledelivery.admin/trunk/test/unit/order_type_test.rb
+END
+news_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/greenova/greenova.mobiledelivery.admin/!svn/ver/18/greenova.ph.mobiledelivery.admin/trunk/test/unit/news_test.rb
+END
+customer_group_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/greenova/greenova.mobiledelivery.admin/!svn/ver/18/greenova.ph.mobiledelivery.admin/trunk/test/unit/customer_group_test.rb
+END

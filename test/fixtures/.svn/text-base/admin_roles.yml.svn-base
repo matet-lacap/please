@@ -1,0 +1,17 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  : 
+  name: MyString
+  has_mobile_access: false
+  has_pc_access: false
+  is_active: false
+  version: 1
+
+two:
+  : 
+  name: MyString
+  has_mobile_access: false
+  has_pc_access: false
+  is_active: false
+  version: 1

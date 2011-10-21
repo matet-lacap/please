@@ -1,0 +1,9 @@
+<div>
+  <table>
+    <% field.each do |p| %>
+    <tr>
+        <td>blahblah <%= p.name %></td>
+    </tr>
+    <% end %>
+  </table>
+</div>

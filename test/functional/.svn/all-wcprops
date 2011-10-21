@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/greenova/greenova.mobiledelivery.admin/!svn/ver/28/greenova.ph.mobiledelivery.admin/trunk/test/functional
+END
+vendor_controller_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/greenova/greenova.mobiledelivery.admin/!svn/ver/21/greenova.ph.mobiledelivery.admin/trunk/test/functional/vendor_controller_test.rb
+END
+product_controller_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/greenova/greenova.mobiledelivery.admin/!svn/ver/28/greenova.ph.mobiledelivery.admin/trunk/test/functional/product_controller_test.rb
+END

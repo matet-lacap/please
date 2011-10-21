@@ -1,0 +1,45 @@
+K 26
+svn:wc:ra_dav:activity-url
+V 49
+/greenova/greenova.mobiledelivery.admin/!svn/act/
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/greenova/greenova.mobiledelivery.admin/!svn/ver/29/greenova.ph.mobiledelivery.admin/trunk
+END
+Gemfile.lock
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/greenova/greenova.mobiledelivery.admin/!svn/ver/21/greenova.ph.mobiledelivery.admin/trunk/Gemfile.lock
+END
+Rakefile
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/greenova/greenova.mobiledelivery.admin/!svn/ver/18/greenova.ph.mobiledelivery.admin/trunk/Rakefile
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/greenova/greenova.mobiledelivery.admin/!svn/ver/18/greenova.ph.mobiledelivery.admin/trunk/.gitignore
+END
+Gemfile
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/greenova/greenova.mobiledelivery.admin/!svn/ver/22/greenova.ph.mobiledelivery.admin/trunk/Gemfile
+END
+config.ru
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/greenova/greenova.mobiledelivery.admin/!svn/ver/18/greenova.ph.mobiledelivery.admin/trunk/config.ru
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/greenova/greenova.mobiledelivery.admin/!svn/ver/18/greenova.ph.mobiledelivery.admin/trunk/README
+END
